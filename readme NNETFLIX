@@ -1,0 +1,15 @@
+Netflix movie and TV show Clustering
+Project Summary -
+The goal of this project is to study the Netflix Dataset of movies and TV series from the third-party search engine Flixable till 2019. The objective is to employ NLP approaches to categorize material into relevant clusters in order to improve the user experience via a recommendation system. This will assist Netflix, which presently has over 220 million customers, avoid subscriber attrition. The dataset will also be studied in order to find insights and trends in the streaming entertainment sector.
+
+The project was completed in the following steps:
+
+Dealing with null values in the dataset.
+Managing nested columns for better presentation (director, cast, listed_in, country).
+Sorting the rating attribute into categories (adult, children's, family-friendly, and unrated).
+Conducting Exploratory Data Analysis (EDA) to get insights on subscriber churn prevention.
+Creating clusters with features such as director, cast, nation, genre, rating, and description, which were tokenized, preprocessed, and vectorized using the TF-IDF vectorizer.
+Using PCA to reduce the dimensionality of the dataset in order to increase performance.
+Using the K-Means Clustering and Agglomerative Hierarchical Clustering algorithms, determine appropriate cluster numbers (4 for K-Means, 2 for hierarchical clustering) using a variety of assessment techniques.
+Creating a content-based recommender system for Netflix that uses a cosine similarity matrix to deliver individualized recommendations to users and decrease subscription churn.
+This thorough analysis and suggestion system are projected to boost customer happiness, resulting in higher Netflix retention rates.
