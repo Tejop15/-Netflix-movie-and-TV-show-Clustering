@@ -3,6 +3,7 @@ Netflix movie and TV show Clustering
 
 ## Table of Contents
 -Understanding the dataset and problem statement.
+
 -Efficient EDA
 -Dealing with missing values and outliers
 -Cleaning the document
