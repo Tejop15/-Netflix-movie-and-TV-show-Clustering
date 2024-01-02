@@ -30,7 +30,8 @@ The project was completed in the following steps:
 
 This thorough analysis and suggestion system are projected to boost customer happiness, resulting in higher Netflix retention rates.
 
-##Conclusions drawn from ML Model
+## Conclusions drawn from ML Model
+
 Implemented K-Means Clustering and Agglomerative Hierarchical Clustering, to cluster the Netflix Movies TV show dataset.
 The optimal number of clusters we are getting from K-means is 4, whereas for Agglomerative Hierarchical Clustering the optimal number of clusters are found out to be 2.
 We chose Silhouette Score as the evaluation metric over distortion score because it provides a more intuitive and interpretable result. Also Silhouette score is less sensitive to the shape of the clusters.
