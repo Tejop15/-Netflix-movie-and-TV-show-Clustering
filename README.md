@@ -2,17 +2,17 @@
 Netflix movie and TV show Clustering
 
 ## Table of Contents
-Understanding the dataset and problem statement.
-Efficient EDA
-Dealing with missing values and outliers
-Cleaning the document
-Exploring exceptional cases
-Pre processing- TFIDF/ bag of words
-Selecting the approach and algorithm to be used.
-Modeling- use at least 2 algorithms.
-Brief strategy for clusters formed.
-Conclusion.
-How is your project useful to stakeholders?
+-Understanding the dataset and problem statement.
+-Efficient EDA
+-Dealing with missing values and outliers
+-Cleaning the document
+-Exploring exceptional cases
+-Pre processing- TFIDF/ bag of words
+-Selecting the approach and algorithm to be used.
+-Modeling- use at least 2 algorithms.
+-Brief strategy for clusters formed.
+-Conclusion.
+-How is your project useful to stakeholders?
 
 ## Introduction
 The goal of this project is to study the Netflix Dataset of movies and TV series from the third-party search engine Flixable till 2019. The objective is to employ NLP approaches to categorize material into relevant clusters in order to improve the user experience via a recommendation system. This will assist Netflix, which presently has over 220 million customers, avoid subscriber attrition. The dataset will also be studied in order to find insights and trends in the streaming entertainment sector.
